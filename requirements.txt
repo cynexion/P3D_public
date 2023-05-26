@@ -1,0 +1,4 @@
+cxroots==2.0.0
+matplotlib==3.7.1
+numpy==1.24.3
+sympy==1.12
