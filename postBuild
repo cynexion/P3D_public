@@ -1,2 +1,4 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension install P3D_HideCode.js --user
+jupyter nbextension enable P3D_HideCode --user
