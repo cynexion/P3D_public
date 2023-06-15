@@ -1,6 +1,4 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter contrib nbextension install --system
-jupyter nbextension enable init_cell/main
-jupyter nbextension enable hide_input/main
-jupyter nbconvert --execute --inplace CRRID_Equidistance.ipynb
+jupyter serverextension enable voila --sys-prefix
