@@ -1,12 +1,5 @@
 name: P3D Web Test
 channels:
 - conda-forge
-dependencies:
-- jupyterlab>=3.1
-- voila>=0.2.11
-- CXrootsP3D
-- matplotlib==3.7.1
-- numpy==1.24.3
-- sympy==1.12
-- jupyter_contrib_nbextensions
-- ipywidgets
+
+
