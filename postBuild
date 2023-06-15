@@ -1,3 +1,5 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
-pip install ./autoplay-master
+jupyter contrib nbextension install --system
+jupyter nbextension enable init_cell/main
+jupyter nbextension enable hide_input/main
