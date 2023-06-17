@@ -9,6 +9,4 @@ dependencies:
 - sympy==1.12
 - jupyter_contrib_nbextensions
 - ipywidgets
-- pip
-- pip:
-  - -e git+https://github.com/cynexion/CXrootsP3D
+
