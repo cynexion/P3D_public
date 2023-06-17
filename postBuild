@@ -2,4 +2,4 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter contrib nbextension install --system
 jupyter serverextension enable voila --sys-prefix
-pip install 
+pip install git+https://github.com/cynexion/CXrootsP3D
