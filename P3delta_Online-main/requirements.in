@@ -1,0 +1,4 @@
+django
+pip-tools
+numpy
+matplotlib==3.*
